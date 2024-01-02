@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../breast-cancer-prediction-using-XGBoost-main"
+		},
+		{
+			"path": "../Breast cancer detection Compare different models"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Stroke prediction"
+		}
+	],
+	"settings": {}
+}
